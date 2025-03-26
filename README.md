@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on high machine learning projects<br>🤝 I’m looking for help with deep learning<br>🌱 I’m currently learning web development<br>
+🔭 I’m currently working on App Development<br>👯 I’m looking to collaborate on Flutter<br>🤝 I’m looking for help with Android Studios<br>🌱 I’m currently learning web development<br>
 
 
 ## 🌐 Socials:
